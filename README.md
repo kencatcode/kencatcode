@@ -13,4 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
+My name is Ken. This is test for Git and Github workshop
+
+Inline-style:test url picture
+![alt text](https://i.imgur.com/CzXTtJV.jpg "Logo Title Text 1")
+
